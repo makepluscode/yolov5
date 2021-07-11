@@ -1,0 +1,5 @@
+names:
+- pistol
+nc: 1
+train: /home/bginess/yolov5/dataset/train.txt
+val: /home/bginess/yolov5/dataset/val.txt
